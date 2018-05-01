@@ -9,7 +9,7 @@ git clone https://github.com/Jofta/JoftaCoinWallet.git
 ```
 cd JoftaCoinWallet
 
-git submodule add https://github.com/Jofta/JoftaCoin.git JoftaCoin
+git submodule add https://github.com/Jofta/JoftaCoin.git cryptonote
 ```
 
 **4. Build**
