@@ -26,7 +26,7 @@ find_package(Qt5Widgets REQUIRED)
 
 set(Boost_USE_STATIC_LIBS ON)
 if(WIN32)
-  set(Boost_USE_STATIC_RUNTIME OFF)
+  set(Boost_USE_STATIC_RUNTIME ON)
 else(WIN32)
   set(Boost_USE_STATIC_RUNTIME ON)
 endif(WIN32)
