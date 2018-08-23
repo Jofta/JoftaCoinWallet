@@ -1,4 +1,4 @@
-This is GUI Wallet for experimental cryptocurrency JoftaCoin (JFT). https://jofta.com
+This is GUI Wallet for experimental cryptocurrency JoftaCoin (JFT).
 
 ## Building JoftaCoinWallet
 
@@ -31,6 +31,5 @@ Dependencies:
 * Qt 5.9.5
 * boost 1.67.0
 
-How to build you can find here: https://www.jofta.com/index.php/2018/05/07/windows-10-gui-wallet/
 
 Good luck!
